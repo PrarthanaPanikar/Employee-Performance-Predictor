@@ -1,0 +1,20 @@
+{
+  "name": "Performance Improvement Plan",
+  "description": "Identify employee needing performance improvement",
+  "employee_data": {
+    "employee_id": "EMP_0789",
+    "age": 32,
+    "experience_years": 5,
+    "company_tenure": 2,
+    "salary": 70000,
+    "department": "Sales",
+    "job_level": "Mid",
+    "education_level": "Bachelor",
+    "quality_score": 2.5,
+    "peer_feedback_score": 2.8,
+    "manager_score": 2.3,
+    "training_hours": 8,
+    "projects_completed": 5
+  },
+  "expected_outcome": "Low performer, needs intervention and training"
+}

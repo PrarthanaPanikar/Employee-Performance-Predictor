@@ -1,0 +1,39 @@
+{
+  "logistic_regression": {
+    "model_name": "logistic_regression",
+    "best_params": {
+      "classifier__C": 10,
+      "classifier__class_weight": "balanced"
+    },
+    "best_score": 0.67230032344095
+  },
+  "random_forest": {
+    "model_name": "random_forest",
+    "best_params": {
+      "classifier__class_weight": "balanced",
+      "classifier__max_depth": 15,
+      "classifier__min_samples_split": 10,
+      "classifier__n_estimators": 200
+    },
+    "best_score": 0.5640760813026989
+  },
+  "gradient_boosting": {
+    "model_name": "gradient_boosting",
+    "best_params": {
+      "classifier__learning_rate": 0.05,
+      "classifier__max_depth": 3,
+      "classifier__n_estimators": 200
+    },
+    "best_score": 0.6570839034640972
+  },
+  "xgboost": {
+    "model_name": "xgboost",
+    "best_params": {
+      "classifier__learning_rate": 0.1,
+      "classifier__max_depth": 3,
+      "classifier__n_estimators": 200,
+      "classifier__subsample": 0.8
+    },
+    "best_score": 0.6652225694550182
+  }
+}

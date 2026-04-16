@@ -1,0 +1,20 @@
+{
+  "name": "Promotion Decision Support",
+  "description": "Help decide if an employee is ready for promotion",
+  "employee_data": {
+    "employee_id": "EMP_0456",
+    "age": 35,
+    "experience_years": 8,
+    "company_tenure": 5,
+    "salary": 95000,
+    "department": "Engineering",
+    "job_level": "Mid",
+    "education_level": "Master",
+    "quality_score": 4.2,
+    "peer_feedback_score": 4.0,
+    "manager_score": 4.5,
+    "training_hours": 45,
+    "projects_completed": 25
+  },
+  "expected_outcome": "High performer, ready for promotion to Senior"
+}

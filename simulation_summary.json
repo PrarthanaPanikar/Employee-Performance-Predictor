@@ -1,0 +1,25 @@
+{
+  "simulation_date": "2026-04-16T22:53:34.913186",
+  "company_name": "TechCorp Solutions",
+  "total_employees": 1000,
+  "high_performers": 108,
+  "at_risk_employees": 75,
+  "business_impact": 3787500.0,
+  "screenshots_created": 4,
+  "demo_scenarios": 3,
+  "files_generated": {
+    "screenshots": [
+      "outputs/proof_materials/screenshots/performance_distribution.png",
+      "outputs/proof_materials/screenshots/department_performance.png",
+      "outputs/proof_materials/screenshots/feature_importance.png",
+      "outputs/proof_materials/screenshots/model_performance.png"
+    ],
+    "business_report": "outputs/proof_materials/reports/business_impact_report.md",
+    "scenario_results": "outputs/proof_materials/scenario_results.json",
+    "demo_scenarios": [
+      "outputs/proof_materials/scenarios/scenario_1.json",
+      "outputs/proof_materials/scenarios/scenario_2.json",
+      "outputs/proof_materials/scenarios/scenario_3.json"
+    ]
+  }
+}
