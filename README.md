@@ -368,10 +368,6 @@ This project incorporates research from:
 - **Machine Learning**: Scikit-learn and XGBoost documentation
 - **HR Analytics**: Harvard Business Review and SHRM research
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - **Scikit-learn** team for excellent ML framework
@@ -381,27 +377,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Project Maintainer**: [Your Name]
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [linkedin.com/in/yourprofile]
-- **GitHub**: [github.com/yourusername]
+- **Project Maintainer**: [Prarthana Sumesh Panikar]
+- **Email**: [prarthanapanikar@gmail.com]
 
-## FAQ
-
-### Q: Can this system be used with real company data?
-A: Yes! The system is designed to work with real HR data. You'll need to map your data schema to the expected format.
-
-### Q: How accurate are the predictions?
-A: Our best model achieves 89% accuracy with F1-score of 0.63. Performance may vary based on data quality and company characteristics.
-
-### Q: Is the system GDPR compliant?
-A: The system includes privacy features and can be configured to comply with GDPR and other data protection regulations.
-
-### Q: Can I customize the features?
-A: Yes! The feature engineering pipeline is modular and can be extended with company-specific metrics.
-
-### Q: How often should the models be retrained?
-A: We recommend quarterly retraining to capture changing patterns and maintain accuracy.
 
 ---
 
